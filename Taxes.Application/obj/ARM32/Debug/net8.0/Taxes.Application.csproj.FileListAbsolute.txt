@@ -1,0 +1,12 @@
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\bin\ARM32\Debug\net8.0\Taxes.Application.deps.json
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\bin\ARM32\Debug\net8.0\Taxes.Application.dll
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\bin\ARM32\Debug\net8.0\Taxes.Application.pdb
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.csproj.AssemblyReference.cache
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.AssemblyInfoInputs.cache
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.AssemblyInfo.cs
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.csproj.CoreCompileInputs.cache
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.dll
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\refint\Taxes.Application.dll
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\Taxes.Application.pdb
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Application\obj\ARM32\Debug\net8.0\ref\Taxes.Application.dll

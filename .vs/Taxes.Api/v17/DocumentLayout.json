@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.application\\repository\\itaxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|solutionrelative:taxes.application\\repository\\itaxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.application\\models\\taxrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|solutionrelative:taxes.application\\models\\taxrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.application\\models\\taxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|solutionrelative:taxes.application\\models\\taxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.application\\repository\\taxerepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|solutionrelative:taxes.application\\repository\\taxerepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.application\\repository\\taxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC760FCF-0FBB-4EF9-87C7-55C0ED84C767}|Taxes.Application\\Taxes.Application.csproj|solutionrelative:taxes.application\\repository\\taxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AA11AD-B871-4089-BDE7-F729F54475AF}|Taxes.Api\\Taxes.Api.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.api\\controllers\\grosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AA11AD-B871-4089-BDE7-F729F54475AF}|Taxes.Api\\Taxes.Api.csproj|solutionrelative:taxes.api\\controllers\\grosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AA11AD-B871-4089-BDE7-F729F54475AF}|Taxes.Api\\Taxes.Api.csproj|c:\\users\\devsi\\source\\repos\\taxes.api\\taxes.api\\mapping\\contractmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AA11AD-B871-4089-BDE7-F729F54475AF}|Taxes.Api\\Taxes.Api.csproj|solutionrelative:taxes.api\\mapping\\contractmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITaxeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Repository\\ITaxeRepository.cs",
+              "RelativeDocumentMoniker": "Taxes.Application\\Repository\\ITaxeRepository.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Repository\\ITaxeRepository.cs",
+              "RelativeToolTip": "Taxes.Application\\Repository\\ITaxeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:31:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Taxe.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Models\\Taxe.cs",
+              "RelativeDocumentMoniker": "Taxes.Application\\Models\\Taxe.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Models\\Taxe.cs",
+              "RelativeToolTip": "Taxes.Application\\Models\\Taxe.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:21:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxRequest.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Models\\TaxRequest.cs",
+              "RelativeDocumentMoniker": "Taxes.Application\\Models\\TaxRequest.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Models\\TaxRequest.cs",
+              "RelativeToolTip": "Taxes.Application\\Models\\TaxRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:21:18.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxeRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Repository\\TaxeRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Taxes.Application\\Repository\\TaxeRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Repository\\TaxeRepositoryBase.cs",
+              "RelativeToolTip": "Taxes.Application\\Repository\\TaxeRepositoryBase.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:11:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Repository\\TaxeRepository.cs",
+              "RelativeDocumentMoniker": "Taxes.Application\\Repository\\TaxeRepository.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Repository\\TaxeRepository.cs",
+              "RelativeToolTip": "Taxes.Application\\Repository\\TaxeRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:29:23.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractMapping.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Api\\Mapping\\ContractMapping.cs",
+              "RelativeDocumentMoniker": "Taxes.Api\\Mapping\\ContractMapping.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Api\\Mapping\\ContractMapping.cs",
+              "RelativeToolTip": "Taxes.Api\\Mapping\\ContractMapping.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:22:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrossController.cs",
+              "DocumentMoniker": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Api\\Controllers\\GrossController.cs",
+              "RelativeDocumentMoniker": "Taxes.Api\\Controllers\\GrossController.cs",
+              "ToolTip": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Api\\Controllers\\GrossController.cs",
+              "RelativeToolTip": "Taxes.Api\\Controllers\\GrossController.cs",
+              "ViewState": "AQIAABIAAAAAmZmZmZkdwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:22:24.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

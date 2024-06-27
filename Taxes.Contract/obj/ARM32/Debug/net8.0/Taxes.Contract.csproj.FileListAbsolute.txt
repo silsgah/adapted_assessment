@@ -1,0 +1,11 @@
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\bin\ARM32\Debug\net8.0\Taxes.Contract.deps.json
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\bin\ARM32\Debug\net8.0\Taxes.Contract.dll
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\bin\ARM32\Debug\net8.0\Taxes.Contract.pdb
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\Taxes.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\Taxes.Contract.AssemblyInfoInputs.cache
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\Taxes.Contract.AssemblyInfo.cs
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\Taxes.Contract.csproj.CoreCompileInputs.cache
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\Taxes.Contract.dll
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\refint\Taxes.Contract.dll
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\Taxes.Contract.pdb
+C:\Users\devsi\source\repos\Taxes.Api\Taxes.Contract\obj\ARM32\Debug\net8.0\ref\Taxes.Contract.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+k+NJxfixpTKVwO5iGNtFnX9dJ/nNpIfqgF7sGBSN3zE26yRr0wXRWgLGGzPs8RGmka/mETgZS4jgDK67zkEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devsi\\source\\repos\\Taxes.Api\\Taxes.Application\\Taxes.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devsi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
